@@ -1,0 +1,43 @@
+body {
+    color: rgb(148, 3, 3);
+    font-family: "Baskervville SC", serif;
+  margin-bottom: 100px;
+}
+header {
+    padding left: 30px; ;
+    font-size: 32px;
+
+}
+.chamada{
+    background: rgba(163, 0, 0, 0.377);
+    padding-bottom: 50px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.chamada-texto {
+    margin: 5%;
+}
+img{
+    height: 300px;
+   
+.catalogo-videos {
+    display: flex;
+    gap: 20px;
+    background-color: rgba(122, 0, 0, 0.452);
+    overflow-x: auto ;
+}
+section {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.catalogo-videos img{
+    opacity:0.3;
+}
+}
+.catalogo-videos img:hover{
+    opacity: 1.0;
+    border: 2px solid red;
+
+}
